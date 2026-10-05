@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483068009759",
+    "project_id": "fruity-ai-d6a44",
+    "storage_bucket": "fruity-ai-d6a44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483068009759:android:d63ced0442121a56a5e42a",
+        "android_client_info": {
+          "package_name": "com.frooty.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBys2skQ57HgTlvad2G3uviexMhW9T2R7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

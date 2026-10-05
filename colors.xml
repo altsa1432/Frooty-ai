@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="frooty_bg">#080B14</color>
+    <color name="frooty_panel">#101625</color>
+    <color name="frooty_text">#EAF0FF</color>
+    <color name="frooty_muted">#9AA8C7</color>
+    <color name="frooty_accent">#8BE9FF</color>
+</resources>
