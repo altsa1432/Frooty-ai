@@ -6,4 +6,5 @@
 .externalNativeBuild
 .cxx
 app/build
+functions/node_modules
 *.iml

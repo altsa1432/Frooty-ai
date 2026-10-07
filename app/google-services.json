@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:483068009759:android:3824984f8c47a3cea5e42a",
         "android_client_info": {
-          "package_name": "com.frooti.ai"
+          "package_name": "com.frooty.assistant"
         }
       },
       "oauth_client": [],
@@ -29,7 +29,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:483068009759:android:d63ced0442121a56a5e42a",
         "android_client_info": {
-          "package_name": "com.frooty.ai"
+          "package_name": "com.frooty.assistant"
         }
       },
       "oauth_client": [],

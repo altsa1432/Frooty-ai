@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"io.github.IgniteUI/igniteui-theming": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"igniteui-theming@29.0.0"
+			],
+			"gallery": "https://api.mcp.github.com",
+			"version": "29.0.0"
+		}
+	},
+	"inputs": []
+}

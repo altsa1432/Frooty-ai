@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FROOTY</string>
+    <string name="accessibility_service_description">With your consent, FROOTY reads visible text from other apps while screen reading is enabled so you can ask about that screen. Password fields are skipped. Text stays on this device unless you explicitly ask FROOTY about it.</string>
+</resources>
